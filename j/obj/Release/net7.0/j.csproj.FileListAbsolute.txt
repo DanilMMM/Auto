@@ -1,0 +1,15 @@
+C:\Users\prdb\Desktop\j\bin\Release\net7.0\j.exe
+C:\Users\prdb\Desktop\j\bin\Release\net7.0\j.deps.json
+C:\Users\prdb\Desktop\j\bin\Release\net7.0\j.runtimeconfig.json
+C:\Users\prdb\Desktop\j\bin\Release\net7.0\j.dll
+C:\Users\prdb\Desktop\j\bin\Release\net7.0\j.pdb
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.AssemblyInfo.cs
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.dll
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\refint\j.dll
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.pdb
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\j.genruntimeconfig.cache
+C:\Users\prdb\Desktop\j\obj\Release\net7.0\ref\j.dll
